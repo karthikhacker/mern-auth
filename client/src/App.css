@@ -1,0 +1,36 @@
+.navbar-image{
+  width:25px;
+  height:25px;
+  margin-right: 5px;
+  border-radius: 100%;
+}
+
+.img-dashboard{
+  width : 55px;
+  height : 55px;
+  border-radius: 100%;
+}
+.profileImage{
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+}
+.label{
+  margin-left: 5px;
+}
+.logout{
+  cursor: pointer;
+}
+
+.file-btn{
+  position: relative;
+  overflow: hidden;
+  margin-top: 10px;
+}
+.file{
+  position: absolute;
+  font-size: 50px;
+  opacity: 0;
+  right: 0;
+  top: 0;
+}
